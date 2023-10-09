@@ -11,7 +11,7 @@
       <div class="text-body-1 font-weight-light mb-n1">Work on your own module</div>
 
 
-
+      
       <div class="py-14" />
 
     </v-responsive>
@@ -19,5 +19,5 @@
 </template>
 
 <script setup>
-  //
+ 
 </script>
